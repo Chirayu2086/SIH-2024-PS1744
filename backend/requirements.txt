@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic-settings
+numpy
+rasterio
+scikit-image
+opencv-python-headless
+torch
+torchvision
+matplotlib
+tqdm
+pandas
+pyyaml
+pytest
+httpx
